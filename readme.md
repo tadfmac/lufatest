@@ -8,4 +8,7 @@ see [LUFA (Lightweight USB Framework for AVRs)](http://www.fourwalledcubicle.com
 
 # schematic
 
+This test codes is testing on the following device.
+
 ![schematic](./AT90usb162-LUFA-test.png)
+
